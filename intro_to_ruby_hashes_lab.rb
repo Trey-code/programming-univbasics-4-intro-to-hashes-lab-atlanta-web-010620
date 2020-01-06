@@ -1,9 +1,10 @@
-def new_hash
-  # return an empty hash
+req '../intro_to_ruby_hashes_lab.rb'
+
+def new_hash()
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+ my_hash= {:food => "pizza",
 end
 
 def pioneer
